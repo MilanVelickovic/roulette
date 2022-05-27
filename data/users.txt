@@ -1,0 +1,6 @@
+ross@gmail.com Ross Ross123 1500.000000 true
+phoebe@yahoo.com Phoebe Phoebe123 730.000000 true
+joey@outlook.com Joey Joey123 4430.000000 true
+chandler@gmail.com Chandler Chandler123 470.000000 false
+monica@yahoo.com Monica Monica123 7220.000000 false
+rachel@outlook.com Rachel Rachel123 98.000000 false
